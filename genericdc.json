@@ -3,9 +3,9 @@
       "description": "Generic Data Center Access",
       "objects": [
                           {
-                               "name": "VMware SG Office IP",
+                               "name": "Ip Address 1",
                                "id": "e7f18b60-f22d-4f42-8dc2-050490ecf6d5",
-                               "description": "VMware SG Office IP",
+                               "description": "IP Address 1",
                                "ranges": [
                                                      "207.66.113.69"
                                ]              
