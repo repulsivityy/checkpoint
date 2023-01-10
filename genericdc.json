@@ -1,0 +1,14 @@
+{
+      "version": "1.0",     
+      "description": "Generic Data Center Access",
+      "objects": [
+                          {
+                               "name": "VMware SG Office IP",
+                               "id": "e7f18b60-f22d-4f42-8dc2-050490ecf6d5",
+                               "description": "VMware SG Office IP",
+                               "ranges": [
+                                                     "207.66.113.69"
+                               ]              
+                          } 
+     ]
+}
